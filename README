@@ -1,0 +1,11 @@
+Team Batman Proposal:
+
+MineSweeper 
+
+Project Description:
+The ‘MineSweeper’ game is a classic computer game that challenges players to clear a grid of hidden mines without triggering any of them. This project aims to recreate the experience using the Java language, offering a graphical user interface for users to enjoy and test their strategic thinking and puzzle-solving skills.
+
+Key Points/Target Features: 
+1. Choose between Easy, Medium, Hard difficulties.
+2. Randomized each time, not same level twice
+3. Basic Minesweeper features, like “flagging” as well as the count of mines on the field.
