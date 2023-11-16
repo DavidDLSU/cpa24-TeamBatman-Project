@@ -1,0 +1,26 @@
+
+GitHub Issue				Details											Open/Close
+1		PH1. References - Upload copies of initial references.				  				  Close
+2		PH2. References - Create a folder named references and upload copies of your references in this folder.		  Close
+3		PH3. Document Review - 												  Open
+		1.Readme: Complete
+		2.Project Proposal:Complete
+		3.Flowchart: Developing (~75%)
+		4.Class Diagram: Developing
+		5.Modules/Assets: Developing
+		6.Java codes: Developing
+
+ 
+Item					% Completion
+Source code and all assets		     50%
+Documentation:				     
+    Introduction			     100%
+    Objectives				     100%
+    Methodology				     100%
+    Results				     50%
+    Walkthrough				     0%
+    Conclusion and Future Work		     100%
+    Contributions			     75%
+    References				     10%
+Video Presentation			     0%
+
