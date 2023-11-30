@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.shape.Rectangle?>
+
+<GridPane xmlns="http://javafx.com/javafx"
+          xmlns:fx="http://javafx.com/fxml"
+          fx:controller="com.example.minesweeperrenewed.DifficultyEasy"
+          hgap="1" vgap="1">
+
+    <GridPane fx:id="gridPane" hgap="1" vgap="1">
+
+        <!-- Row 1 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="0" fx:id="tile00" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="0" fx:id="tile01" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="0" fx:id="tile02" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="0" fx:id="tile03" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="0" fx:id="tile04" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="0" fx:id="tile05" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="0" fx:id="tile06" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="0" fx:id="tile07" />
+
+        <!-- Row 2 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="1" fx:id="tile10" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="1" fx:id="tile11" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="1" fx:id="tile12" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="1" fx:id="tile13" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="1" fx:id="tile14" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="1" fx:id="tile15" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="1" fx:id="tile16" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="1" fx:id="tile17" />
+
+        <!-- Row 3 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="2" fx:id="tile20" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="2" fx:id="tile21" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="2" fx:id="tile22" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="2" fx:id="tile23" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="2" fx:id="tile24" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="2" fx:id="tile25" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="2" fx:id="tile26" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="2" fx:id="tile27" />
+
+        <!-- Row 4 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="3" fx:id="tile30" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="3" fx:id="tile31" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="3" fx:id="tile32" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="3" fx:id="tile33" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="3" fx:id="tile34" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="3" fx:id="tile35" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="3" fx:id="tile36" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="3" fx:id="tile37" />
+
+        <!-- Row 5 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="4" fx:id="tile40" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="4" fx:id="tile41" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="4" fx:id="tile42" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="4" fx:id="tile43" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="4" fx:id="tile44" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="4" fx:id="tile45" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="4" fx:id="tile46" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="4" fx:id="tile47" />
+
+        <!-- Row 6 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="5" fx:id="tile50" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="5" fx:id="tile51" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="5" fx:id="tile52" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="5" fx:id="tile53" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="5" fx:id="tile54" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="5" fx:id="tile55" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="5" fx:id="tile56" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="5" fx:id="tile57" />
+
+        <!-- Row 7 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="6" fx:id="tile60" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="6" fx:id="tile61" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="6" fx:id="tile62" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="6" fx:id="tile63" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="6" fx:id="tile64" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="6" fx:id="tile65" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="6" fx:id="tile66" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="6" fx:id="tile67" />
+
+        <!-- Row 8 -->
+        <Pane GridPane.columnIndex="0" GridPane.rowIndex="7" fx:id="tile70" />
+        <Pane GridPane.columnIndex="1" GridPane.rowIndex="7" fx:id="tile71" />
+        <Pane GridPane.columnIndex="2" GridPane.rowIndex="7" fx:id="tile72" />
+        <Pane GridPane.columnIndex="3" GridPane.rowIndex="7" fx:id="tile73" />
+        <Pane GridPane.columnIndex="4" GridPane.rowIndex="7" fx:id="tile74" />
+        <Pane GridPane.columnIndex="5" GridPane.rowIndex="7" fx:id="tile75" />
+        <Pane GridPane.columnIndex="6" GridPane.rowIndex="7" fx:id="tile76" />
+        <Pane GridPane.columnIndex="7" GridPane.rowIndex="7" fx:id="tile77" />
+    </GridPane>
+
+</GridPane>
